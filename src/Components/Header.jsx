@@ -1,5 +1,5 @@
 import React from 'react'
-import "./box.css"
+import "./header.css"
 import { Button } from 'react-bootstrap'
 
 export default function Img() {
